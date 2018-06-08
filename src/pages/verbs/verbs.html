@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Verbs
+    </ion-title>
+  </ion-navbar>
+  <ion-searchbar (ionInput)="searchVerb($event)" animated="true"></ion-searchbar>
+</ion-header>
+<ion-content>
+  <ion-list *ngFor="let verb of verbs" inset>
+    <ion-item>
+      <ion-label (click)="verbClick(verb)">{{verb.name}}</ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

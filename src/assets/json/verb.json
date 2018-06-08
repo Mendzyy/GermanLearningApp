@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "name": "können",
+      "conj_ich": "kann",
+      "conj_wir": "können",
+      "conj_du": "kannst",
+      "meaning": "can, to be able to"
+    },
+    {
+      "name": "sagen",
+      "conj_ich": "sage",
+      "conj_wir": "sagen",
+      "conj_du": "sagst"
+    },
+    {
+      "name": "machen",
+      "conj_ich": "mache",
+      "conj_wir": "machen",
+      "conj_du": "machst"
+    },
+    {
+      "name": "sehen",
+      "conj_ich": "sehe",
+      "conj_wir": "sehen",
+      "conj_du": "siehst"
+    },
+    {
+      "name": "gehen",
+      "conj_ich": "gehe",
+      "conj_wir": "gehen",
+      "conj_du": "gehst"
+    },
+    {
+      "name": "wollen",
+      "conj_ich": "will",
+      "conj_wir": "wollen",
+      "conj_du": "willst"
+    },
+    {
+      "name": "werden",
+      "conj_ich": "werde",
+      "conj_wir": "werden",
+      "conj_du": "wirst"
+    },
+    {
+      "name": "sein",
+      "conj_ich": "bin",
+      "conj_wir": "sind",
+      "conj_du": "bist"
+    },
+    {
+      "name": "spielen",
+      "conj_ich": "spiele",
+      "conj_wir": "spielen",
+      "conj_du": "spielst"
+    },
+    {
+      "name": "suchen",
+      "conj_ich": "suche",
+      "conj_wir": "suchen",
+      "conj_du": "suchst"
+    },
+    {
+      "name": "finden",
+      "conj_ich": "finde",
+      "conj_wir": "finden",
+      "conj_du": "findest"
+    },
+    {
+      "name": "arbeiten",
+      "conj_ich": "arbeite",
+      "conj_du": "arbeitest",
+      "conj_ersiees": "arbeitet",
+      "conj_wir": "arbeiten",
+      "conj_ihr": "arbeitet",
+      "conj_Sie": "arbeiten",
+      "conj_konj1_ich": "arbeite",
+      "conj_konj1_du": "arbeitest",
+      "conj_konj1_ersiees": "arbeite",
+      "conj_konj1_wir": "arbeiten",
+      "conj_konj1_ihr": "arbeitet",
+      "conj_konj1_Sie": "arbeiten",
+      "conj_praet_ich": "arbeitete",
+      "conj_praet_du": "arbeitetest",
+      "conj_praet_ersiees": "arbeitete",
+      "conj_praet_wir": "arbeiteten",
+      "conj_praet_ihr": "arbeitetet",
+      "conj_praet_Sie": "arbeiteten",
+      "conj_konj2_ich": "arbeitete",
+      "conj_konj2_du": "arbeitetest",
+      "conj_konj2_ersiees": "arbeitete",
+      "conj_konj2_wir": "arbeiteten",
+      "conj_konj2_ihr": "arbeitetet",
+      "conj_konj2_Sie": "arbeiteten",
+      "conj_partizip1": "arbeitend",
+      "conj_partizip2": "gearbeitet",
+      "conj_inf": "zu arbeiten",
+      "meaning": "to work"
+    }
+  ]
+}
